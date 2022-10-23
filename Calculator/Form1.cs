@@ -6,5 +6,15 @@ namespace Calculator
         {
             InitializeComponent();
         }
+
+        private void lb_SoA_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lb_SoB_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
