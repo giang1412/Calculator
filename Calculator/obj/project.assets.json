@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KiemThuPhanMem\\Git\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "D:\\KiemThuPhanMem\\Demo\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "D:\\KiemThuPhanMem\\Git\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "D:\\KiemThuPhanMem\\Demo\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Giang\\.nuget\\packages\\",
-      "outputPath": "D:\\KiemThuPhanMem\\Git\\Calculator\\Calculator\\obj\\",
+      "outputPath": "D:\\KiemThuPhanMem\\Demo\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Giang\\AppData\\Roaming\\NuGet\\NuGet.Config",
